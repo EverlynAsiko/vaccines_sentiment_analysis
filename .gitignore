@@ -1,2 +1,4 @@
-# ignore all .a files
+# ignore all .py files
 *.py
+*.txt
+*.csv
